@@ -30,7 +30,7 @@
             "image": "player.png",
             "base_speed": 1
         }
-    [
+    ]
     "treasure":[
         {
             "name": "treasure",
