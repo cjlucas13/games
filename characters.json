@@ -1,5 +1,5 @@
 {
-    "enemies":[
+    "enemies": [
         {
             "name": "enemy_0",
             "xpos": 42,
@@ -22,7 +22,7 @@
             "base_speed": 1
         }
     ]
-    "player":[
+    "player": [
         {
             "name": "player",
             "xpos": 375,
@@ -31,7 +31,7 @@
             "base_speed": 1
         }
     ]
-    "treasure":[
+    "treasure": [
         {
             "name": "treasure",
             "xpos": 375,
