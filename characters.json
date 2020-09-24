@@ -21,16 +21,15 @@
             "image": "enemy.png",
             "base_speed": 1
         }
-    ]
+    ],
     "player": [
-        {
-            "name": "player",
+        {           
             "xpos": 375,
             "ypos": 700,
             "image": "player.png",
             "base_speed": 1
         }
-    ]
+    ],
     "treasure": [
         {
             "name": "treasure",
