@@ -29,7 +29,6 @@
     ],
     "treasure": [
         {
-            "name": "treasure",
             "xpos": 375,
             "ypos": 50,
             "image": "treasure.png"
