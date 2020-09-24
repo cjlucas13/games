@@ -1,21 +1,18 @@
 {
     "enemies": [
         {
-            "name": "enemy_0",
             "xpos": 42,
             "ypos": 10,
             "image": "enemy.png",
             "base_speed": 1
         }
         {
-            "name": "enemy_1",
             "xpos": 12,
             "ypos": 40,
             "image": "enemy.png",
             "base_speed": 1
         }
         {
-            "name": "enemy_2",
             "xpos": 1,
             "ypos": 70,
             "image": "enemy.png",
